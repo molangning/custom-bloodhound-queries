@@ -1,7 +1,7 @@
 # custom-bloodhound-queries
 Compiled list of bloodhound queries in one json file.
 
-quries-compiler.py gets all json files and merge them into one json file.
+queries-compiler.py gets all json files and merge them into one json file.
 
 # Star me!
 
